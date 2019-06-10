@@ -1,0 +1,27 @@
+.ball {
+  background: tomato;
+  border-radius: 50%;
+  color: white;
+  display: inline-block;
+  width: 7em;
+  height: 6.15em;
+  padding-top: 2em;
+  margin-right: 1.5em;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.lottery {
+  border: solid 2px gray;
+  padding: 1em 0 2em 0;
+  text-align: center;
+  margin: 3em auto auto;
+  border-radius: 10px;
+  width: 60%;
+}
+.btn {
+  margin-top: 90px;
+}
+.heading {
+  padding: 30px;
+  margin-bottom: 40px;
+}
